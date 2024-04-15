@@ -101,3 +101,7 @@ Translations done so far:
 #	"LICENSE"
 
 [Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): it's a public domain dedication, so basically, do whatever you want! Attribution is super appreciated, but I'm not gonna send legal goons after you or anything.
+
+#	"Blah"
+
+Watched this for the first time when I was studying. Then got reminded of it again while watching [this video](https://www.youtube.com/watch?v=mScpHTIi-kM) in 2024 and decided to fork this repo so that I can always come back to it.
